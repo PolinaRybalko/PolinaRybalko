@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @PolinaRybalko
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m @PolinaRybalko. I can code and tell stories with data. 
 
 <!---
 PolinaRybalko/PolinaRybalko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
