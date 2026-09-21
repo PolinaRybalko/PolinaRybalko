@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PolinaRybalko. I can code and tell stories with data. 
+- 👋 Hi, I’m @PolinaRybalko. I tell stories with data. 
 
 <!---
 PolinaRybalko/PolinaRybalko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
